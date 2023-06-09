@@ -1,1 +1,0 @@
-# programming-technologies-and-methods
