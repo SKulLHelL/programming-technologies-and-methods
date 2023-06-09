@@ -30,5 +30,5 @@ rectangle "Информационная система поликлиники" {
 }
 @enduml
 ```
-
+![screen](https://github.com/SKulLHelL/programming-technologies-and-methods/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20%E2%84%961/screenshots/screen1.png)
 
